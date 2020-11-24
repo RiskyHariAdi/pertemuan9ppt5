@@ -1,14 +1,3 @@
-![logo](foto/logo.png)
-
-Nama : RISKY HARIADI <br>
-Nim  : 31201012 <br>
-Kelas: TI.A1.20 <br>
-
-![tugas5](foto/tugas5.png) <br>
-
-* pada praktikum 5 ini, saya akan membuat program sederhana untuk menginput data kedalam list. <br>
-
-```python
 P = print
 while True:
     P("")
@@ -163,7 +152,7 @@ while True:
                 break
         while (True):
             try:
-                tugas  = int(input(" TUGAS  : "))
+                tugas  = int(input(" TUGAS: "))
                 if tugas == '':
                     P(' Masukan TUGAS dengan Angka')
             except ValueError:
@@ -193,13 +182,3 @@ while True:
         i.close()
     else:
         P("Silahkan pilih menu yang tersedia...")
-```
-* Dari statement diatas, kita akan diminta untuk menginput nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu system akan menjumlahkan nilai-nilai tersebut dan menghasilkan nilai akhir. <br>
-Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai' <br>
-
-* Terakhir kita akan mencetak hasil dari program yang telah dibuat. <br>
-![tugas5h](foto/tugas5h.png)
-
-### Jangan Lupa Like And Subscribe
-![youtube](foto/youtube.png)
-
