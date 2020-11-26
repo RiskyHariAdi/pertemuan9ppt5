@@ -194,12 +194,15 @@ while True:
     else:
         P("Silahkan pilih menu yang tersedia...")
 ```
+
 * Dari statement diatas, kita akan diminta untuk menginput nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu system akan menjumlahkan nilai-nilai tersebut dan menghasilkan nilai akhir. <br>
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai' <br>
 
 * Terakhir kita akan mencetak hasil dari program yang telah dibuat. <br>
 ![tugas5h](foto/tugas5h.png)
 
+* Berikut Rangkaian flowchart yang saya buat sebagai berikut :
+![flowchart](foto/flowchart.png)
 ### Jangan Lupa Like And Subscribe
 ![youtube](foto/youtube.png)
 
